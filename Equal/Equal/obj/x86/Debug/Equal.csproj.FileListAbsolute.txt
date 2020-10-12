@@ -1,0 +1,5 @@
+c:\users\z2359\documents\visual studio 2010\Projects\Equal\Equal\bin\Debug\Equal.exe
+c:\users\z2359\documents\visual studio 2010\Projects\Equal\Equal\bin\Debug\Equal.pdb
+c:\users\z2359\documents\visual studio 2010\Projects\Equal\Equal\obj\x86\Debug\Equal.exe
+c:\users\z2359\documents\visual studio 2010\Projects\Equal\Equal\obj\x86\Debug\Equal.pdb
+C:\Users\z2359\documents\visual studio 2010\Projects\Equal\Equal\obj\x86\Debug\Equal.csprojResolveAssemblyReference.cache
